@@ -1,0 +1,49 @@
+C:\Users\Junaid Micheal\Documents\Visual Studio 2010\Projects\Game\Game\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Junaid Micheal\Documents\Visual Studio 2010\Projects\Game\Game\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Junaid Micheal\Documents\Visual Studio 2010\Projects\Game\Game\obj\x86\Debug\Game.csproj.ResolveComReference.cache
+C:\Users\Junaid Micheal\Documents\Visual Studio 2010\Projects\Game\Game\bin\Debug\Game.exe
+C:\Users\Junaid Micheal\Documents\Visual Studio 2010\Projects\Game\Game\bin\Debug\Game.pdb
+C:\Users\Junaid Micheal\Documents\Visual Studio 2010\Projects\Game\Game\bin\Debug\Interop.WMPLib.dll
+C:\Users\Junaid Micheal\Documents\Visual Studio 2010\Projects\Game\Game\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Junaid Micheal\Documents\Visual Studio 2010\Projects\Game\Game\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Junaid Micheal\Documents\Visual Studio 2010\Projects\Game\Game\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Junaid Micheal\Documents\Visual Studio 2010\Projects\Game\Game\obj\x86\Debug\Game.csproj.GenerateResource.Cache
+C:\Users\Junaid Micheal\Documents\Visual Studio 2010\Projects\Game\Game\obj\x86\Debug\Game.exe
+C:\Users\Junaid Micheal\Documents\Visual Studio 2010\Projects\Game\Game\obj\x86\Debug\Game.pdb
+C:\Users\Junaid Micheal\Documents\Visual Studio 2010\Projects\Game\Game\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Junaid Micheal\Documents\Visual Studio 2010\Projects\Game\Game\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Junaid Micheal\Documents\Visual Studio 2010\Projects\Game\Game\obj\x86\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\Junaid Micheal\Documents\Visual Studio 2010\Projects\Game\Game\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Junaid Micheal\Documents\Visual Studio 2010\Projects\Game\Game\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Junaid Micheal\Documents\Visual Studio 2010\Projects\Game\Game\obj\x86\Debug\WindowsFormsApplication1.Form7.resources
+F:\Visual Studio 2010\Projects\Game\Game\obj\x86\Debug\Interop.WMPLib.dll
+F:\Visual Studio 2010\Projects\Game\Game\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\Visual Studio 2010\Projects\Game\Game\obj\x86\Debug\Game.csproj.ResolveComReference.cache
+F:\Visual Studio 2010\Projects\Game\Game\obj\x86\Debug\Game.exe
+F:\Visual Studio 2010\Projects\Game\Game\obj\x86\Debug\Game.pdb
+C:\Users\Junaid Micheal\Desktop\Game\Game\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Junaid Micheal\Desktop\Game\Game\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Junaid Micheal\Desktop\Game\Game\obj\x86\Debug\Game.csproj.ResolveComReference.cache
+C:\Users\Junaid Micheal\Desktop\Game\Game\obj\x86\Debug\Game.exe
+C:\Users\Junaid Micheal\Desktop\Game\Game\obj\x86\Debug\Game.pdb
+C:\Users\Junaid Micheal\Desktop\Game\Game\bin\Debug\Game.exe
+C:\Users\Junaid Micheal\Desktop\Game\Game\bin\Debug\Game.pdb
+C:\Users\Junaid Micheal\Desktop\Game\Game\bin\Debug\Interop.WMPLib.dll
+C:\Users\Junaid Micheal\Desktop\Game\Game\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Junaid Micheal\Desktop\Game\Game\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Junaid Micheal\Desktop\Game\Game\obj\x86\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\Junaid Micheal\Desktop\Game\Game\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Junaid Micheal\Desktop\Game\Game\obj\x86\Debug\Game.csproj.GenerateResource.Cache
+F:\Visual Studio 2010\Projects\Game1\Game\obj\x86\Debug\Interop.WMPLib.dll
+F:\Visual Studio 2010\Projects\Game1\Game\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\Visual Studio 2010\Projects\Game1\Game\obj\x86\Debug\Game.csproj.ResolveComReference.cache
+F:\Visual Studio 2010\Projects\Game1\Game\obj\x86\Debug\Game.exe
+F:\Visual Studio 2010\Projects\Game1\Game\obj\x86\Debug\Game.pdb
+F:\Visual Studio 2010\Projects\Game1\Game\bin\Debug\Game.exe
+F:\Visual Studio 2010\Projects\Game1\Game\bin\Debug\Game.pdb
+F:\Visual Studio 2010\Projects\Game1\Game\bin\Debug\Interop.WMPLib.dll
+F:\Visual Studio 2010\Projects\Game1\Game\bin\Debug\AxInterop.WMPLib.dll
+F:\Visual Studio 2010\Projects\Game1\Game\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\Visual Studio 2010\Projects\Game1\Game\obj\x86\Debug\WindowsFormsApplication1.Form6.resources
+F:\Visual Studio 2010\Projects\Game1\Game\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Visual Studio 2010\Projects\Game1\Game\obj\x86\Debug\Game.csproj.GenerateResource.Cache
